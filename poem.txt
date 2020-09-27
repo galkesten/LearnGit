@@ -1,2 +1,3 @@
 this is my poem for trying git 
-I love writing poems
+I love writing poem
+new line
